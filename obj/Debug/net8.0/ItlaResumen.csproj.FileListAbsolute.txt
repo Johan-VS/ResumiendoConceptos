@@ -1,0 +1,14 @@
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\bin\Debug\net8.0\ItlaResumen.exe
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\bin\Debug\net8.0\ItlaResumen.deps.json
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\bin\Debug\net8.0\ItlaResumen.runtimeconfig.json
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\bin\Debug\net8.0\ItlaResumen.dll
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\bin\Debug\net8.0\ItlaResumen.pdb
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\obj\Debug\net8.0\ItlaResumen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\obj\Debug\net8.0\ItlaResumen.AssemblyInfoInputs.cache
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\obj\Debug\net8.0\ItlaResumen.AssemblyInfo.cs
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\obj\Debug\net8.0\ItlaResumen.csproj.CoreCompileInputs.cache
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\obj\Debug\net8.0\ItlaResumen.dll
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\obj\Debug\net8.0\refint\ItlaResumen.dll
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\obj\Debug\net8.0\ItlaResumen.pdb
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\obj\Debug\net8.0\ItlaResumen.genruntimeconfig.cache
+C:\Users\Anonimous\source\repos\ItlaResumen\ItlaResumen\obj\Debug\net8.0\ref\ItlaResumen.dll
