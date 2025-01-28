@@ -56,3 +56,4 @@ numero1 %= 10;
 //Imprimir resultados
 Console.WriteLine("El valor de numero 3 es: " + numero1);
 Console.WriteLine("Despues de la subidad");
+Console.WriteLine("subida despues de la subida");
